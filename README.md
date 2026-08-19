@@ -1,6 +1,10 @@
-# Counter Strike Source: Base Edition
+# THIS IS NOT AN IMPROVED VERSION.
+I am just messing around with it and see what happens:3
+- Chungus Studios.
 
-**Counter Strike Source: Base Edition** is open source port of the leaked 2007 Source engine leak of the award winner Counter Strike Source. 
+# Counter Strike: Source
+
+an open source port of the leaked 2007 Source engine leak of the award winner Counter Strike Source. 
 
 This mod is orient to Community so everyone can grow the mod whit his contributions.
 Currently this mod is in a pre-alpha state so don’t expected any class of bugs.
