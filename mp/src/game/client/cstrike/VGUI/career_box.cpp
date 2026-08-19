@@ -183,6 +183,7 @@ void ConVarToggleCheckButton::OnButtonChecked()
 CCareerBaseBox::CCareerBaseBox(Panel *parent, const char *panelName, bool loadResources, bool useCareerButtons) : Frame(parent, panelName, false)
 {
 // @TODO:	SetScheme("CareerBoxScheme");
+    SetScheme("CareerBoxScheme");
 	SetScheme("ClientScheme");
 	SetProportional( true );
 	SetMoveable(false);

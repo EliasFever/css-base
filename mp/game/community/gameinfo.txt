@@ -1,6 +1,6 @@
 "GameInfo"
 {
-	game	"Counter-Strike Source: Community Edition"
+	game	"Counter-Strike: Source"
 	type multiplayer_only
 	
 	GameData	"community.fgd"
