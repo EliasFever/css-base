@@ -9,21 +9,9 @@ Currently this mod is in a pre-alpha state so don’t expected any class of bugs
 
 ## :hammer: Building
 
-1. Download and install [Visual Studio 2013](https://go.microsoft.com/fwlink/?LinkId=532495&clcid=0x409).
+1. Download and install [Visual Studio 2013](https://dl.bobpony.com/software/visualstudio/2013/).
 2. Download and install the [Multibyte MFC Library](https://www.microsoft.com/en-gb/download/details.aspx?id=40770).
 3. Run first `creategameprojects.bat` and build it this contains the mod dll need to run the mod.
-
-## :clipboard: Goals
-
-- [x] Finish the port of the game to Source 2013
-- [ ] Make fully functional the cut VIP mode so everyone can play it without server plugins
-- [ ] Make fully functional the cut Prison Scape so everyone can play it without server plugins
-- [ ] Implement a DM mode like CSPromod
-- [ ] Redo the Bots and hostage’s AI using the [(Nextbot System)](https://developer.valvesoftware.com/wiki/NextBot)
-- [ ] Implement the Vote System so everyone can vote without using plugins
-- [ ] Implement Class Based Hands Like CSGO
-- [x] Implement CSPromod's Shadows RTT
-- [ ] Bring back to life the shield.
 
 ## :heavy_exclamation_mark: Warning
 
