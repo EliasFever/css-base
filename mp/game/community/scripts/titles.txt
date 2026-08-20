@@ -12,8 +12,8 @@ Team_Select_Spect
 {
 \ySelect a team\w
 
-1. Terrorist Force
-2. Counter-Terrorist Force
+1. Terrorists
+2. Counter-Terrorists
 
 5. Auto-select
 6. Spectator
@@ -23,8 +23,8 @@ IG_Team_Select
 {
 \ySelect a team\w
 
-1. Terrorist Force
-2. Counter-Terrorist Force
+1. Terrorists
+2. Counter-Terrorists
 
 5. Auto-select
 
@@ -35,8 +35,8 @@ IG_Team_Select_Spect
 {
 \ySelect a team\w
 
-1. Terrorist Force
-2. Counter-Terrorist Force
+1. Terrorists
+2. Counter-Terrorists
 
 5. Auto-select
 6. Spectator
@@ -48,8 +48,8 @@ IG_VIP_Team_Select
 {
 \ySelect a team\w
 
-1. Terrorist Force
-2. Counter-Terrorist Force
+1. Terrorists
+2. Counter-Terrorists
 3. VIP
 
 5. Auto-select
@@ -61,8 +61,8 @@ IG_VIP_Team_Select_Spect
 {
 \ySelect a team\w
 
-1. Terrorist Force
-2. Counter-Terrorist Force
+1. Terrorists
+2. Counter-Terrorists
 3. VIP
 
 5. Auto-select

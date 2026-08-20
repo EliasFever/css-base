@@ -147,9 +147,9 @@ void CHudHealth::OnThink()
 		// round restarted, we have 100 again
 		g_pClientMode->GetViewportAnimationController()->StartAnimationSequence("HealthRestored");
 	}
-	else if ( realHealth <= 25 )
+	else if ( realHealth <= 20 )
 	{
-		// we are badly injured
+		// we are badly injured, gimme a heal:<
 		g_pClientMode->GetViewportAnimationController()->StartAnimationSequence("HealthLow");
 	}
 	else if( realHealth < m_iHealth )
