@@ -28,6 +28,7 @@ struct Language_t
 // zh_CN - validate that SC date formats come through
 // bt_BR - assume we should use Brazilian rather than Iberian portguese
 
+// where the fuck is arabic>:(
 static const Language_t s_LanguageNames[] = 
 {
 	{	"None",					"none",			"None",									"none",		k_Lang_None,		0 },

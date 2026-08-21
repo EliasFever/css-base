@@ -453,7 +453,7 @@ bool CCommand::Tokenize( const char *pCommand, characterset_t *pBreakSet )
 		m_ppArgv[ m_nArgc++ ] = pArgvBuf;
 		if( m_nArgc >= COMMAND_MAX_ARGC )
 		{
-			Warning( "CCommand::Tokenize: Encountered command which overflows the argument buffer.. Clamped!\n" );
+			Warning( "CCommand::Tokenize: Encountered command which overflows the argument buffer.. Clapped!\n" );
 		}
 
 		nArgvBufferSize += nSize + 1;
@@ -1262,7 +1262,7 @@ void ConVar_PrintDescription( const ConCommandBase *pVar )
 		// Handled virtualized cvars.
 		if ( pBounded && fabs( pBounded->GetFloat() - var->GetFloat() ) > 0.0001f )
 		{
-			ConColorMsg( clr, "** NOTE: The real value is %.3f but the server has temporarily restricted it to %.3f **\n",
+			ConColorMsg( clr, "** NOTE: The real value is %.3f but the server you are connected to has temporarily restricted it to %.3f **\n",
 				var->GetFloat(), pBounded->GetFloat() );
 		}
 	}

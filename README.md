@@ -1,5 +1,5 @@
 # THIS IS NOT AN IMPROVED VERSION.
-I am just messing around with it and see what happens:3
+I am just messing around with it and see what happens:3 (and no I didn't compile it yet.)
 - Chungus Studios.
 
 # Counter Strike: Source
